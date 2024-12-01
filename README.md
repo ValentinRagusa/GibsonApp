@@ -125,4 +125,4 @@ GibsonApp is a Java-based application designed to manage an inventory of music-r
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/GibsonApp.git
+   git clone https://github.com/ValentinRagusa/GibsonApp.git
